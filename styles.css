@@ -211,7 +211,7 @@ path {
 /* About Section */
 .about {
   grid-area: about;
-  margin: 80px 78px;
+  margin: 150px 78px 138px;
 }
 
 .row {
