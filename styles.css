@@ -253,7 +253,7 @@ path {
 /* How To Section */
 .howto {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 8% 1fr 1fr;
   grid-template-rows: 15% 1fr 1fr 1fr;
   gap: 0px 0px;
   grid-auto-flow: row;
@@ -267,7 +267,7 @@ path {
   margin-top: 40px;
   margin-bottom: 20px;
   padding: 20px;
-  padding-bottom: 100px;
+  padding-bottom: 160px;
 }
 
 .headings {
@@ -427,7 +427,7 @@ path {
 /* Main Section */
 @media only screen and (max-width: 995px) {
   main.main {
-    margin: 20px 0px;
+    margin: 20px 0px 0px;
   }
 }
 
